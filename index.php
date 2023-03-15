@@ -100,6 +100,7 @@
              
                 <div class="col-12">
                   <button type="submit" class="btn btn-success" name="submit" value="submit">PAY</button>
+                  <a href="../home.php"><button type="button" class="btn btn-outline-primary float-right">Cancel</button></a>
                 </div>
               </form>
               <!--bs5 input-->
